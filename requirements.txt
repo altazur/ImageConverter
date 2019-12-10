@@ -1,0 +1,2 @@
+Pillow-SIMD==6.0.0.post0
+argparse==1.1
